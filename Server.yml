@@ -3,20 +3,17 @@ Competition:
   121.78.158.237: 파밍온라인-pororipodo
   211.115.84.67:  파밍-pororipodo
   112.145.251.18: 이메이토-Eimayto
-  119.193.199.152: 구름-Adventure_online
   59.18.195.223: 레이온라인-EOS
   172.110.16.150: 북극서버-Polarbear
   211.155.84.179: 퓨쳐온라인-puture
 mute:
   121.78.158.237: 파밍온라인-pororipodo
   112.145.251.18: 이메이토-Eimayto
-  119.193.199.152: 구름-Adventure_online
   172.110.16.150: 북극서버-Polarbear
 bank:
   121.78.158.237: 파밍온라인-pororipodo
   211.115.84.67: 파밍test-pororipodo
   112.145.251.18: 이메이토-Eimayto
-  119.193.199.152: 구름-Adventure_online
   52.191.168.155: 애플온라인-레이나
   211.155.84.179: 퓨쳐온라인-puture
 Stound_Event:
@@ -27,10 +24,8 @@ SimpleOrder:
   121.78.158.237: 파밍온라인-pororipodo
   211.115.84.67: 파밍test-pororipodo
   112.145.251.18: 이메이토-Eimayto
-  119.193.199.152: 구름-Adventure_online
 Clash_Farming:
   121.78.158.237: 파밍온라인-pororipodo
   211.115.84.67: 파밍test-pororipodo
   112.145.251.18: 이메이토-Eimayto
-  119.193.199.152: 구름-Adventure_online
 ...
